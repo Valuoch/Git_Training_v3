@@ -5,3 +5,4 @@
 
 git reset
 this is Sample File one
+This is comparison lecture
